@@ -1,0 +1,8 @@
+- Develop a Complete WIFI Library for ESP8266 and STM32 Microcontrollers
+- Develop an Embedded WIFI Client for Accessing Web APIs
+- Develop an Embedded Web Server for Controlling Hardware Remotely
+- Develop Bare-Metal Firmware for Storing Sensor Data in the Cloud
+- Develop Bare-Metal Drivers for Connecting ESP8266 to STM32 Microcontrollers
+- Develop First-In-First-Out (FIFO) Data Structure for Managing Communication Data
+- Develop Circular Buffer Data Structure for Managing Communication Data
+- Understand the Fundamentals of the IEEE 802.11 (WIFI) Protocol
